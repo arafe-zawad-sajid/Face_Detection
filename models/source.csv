@@ -1,0 +1,3 @@
+Model,Repo
+yolov8n.pt,https://github.com/ultralytics/ultralytics
+yolov8n-face.pt, https://github.com/derronqi/yolov8-face
